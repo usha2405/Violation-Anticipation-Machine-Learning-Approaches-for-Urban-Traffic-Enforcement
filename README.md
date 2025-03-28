@@ -22,7 +22,7 @@ This project presents a machine learning-based approach to predict parking ticke
 Clone the GitHub repository:
 
 ```bash
-git clone https://github.iu.edu/Luddy-B565-SP24/rkapgate-ushajain-psorte/tree/main/finalproject
+git clone https://github.com/usha2405/Violation-Anticipation-Machine-Learning-Approaches-for-Urban-Traffic-Enforcement
 ```
 
 Install required packages:
